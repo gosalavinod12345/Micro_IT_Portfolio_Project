@@ -16,10 +16,7 @@ A **Simple Calculator** is a basic desktop application built using Java and Swin
 - Decimal number support
 - Clear and delete functionality
 - Error handling for invalid input and division by zero
-
-- ## 📸 Screenshots
-
-![Calculator Screenshot](project2.png) <!
+- 
 
 ## 🛠️ Technologies Used
 
