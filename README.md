@@ -19,7 +19,7 @@ A **Simple Calculator** is a basic desktop application built using Java and Swin
 
 - ## 📸 Screenshots
 
-![Calculator Screenshot](project2.png) <!-- You can update this with a real image -->
+![Calculator Screenshot](project2.png) <!
 
 ## 🛠️ Technologies Used
 
